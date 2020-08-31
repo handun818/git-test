@@ -7,5 +7,11 @@ public class FirstGit {
         System.out.println("heelo-git-project");
         System.out.println("heelo-git-project");
         System.out.println("heelo-git-project");
+
+
+        }
+    public void test(){
+        int i=0;
+        i+=10;
     }
 }
