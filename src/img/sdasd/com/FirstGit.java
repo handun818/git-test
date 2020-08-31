@@ -7,7 +7,7 @@ public class FirstGit {
         System.out.println("heelo-git-project");
         System.out.println("heelo-git-project");
         System.out.println("heelo-git-project");
-//hello.test
+
 
         }
     public void test(){
@@ -15,5 +15,6 @@ public class FirstGit {
         i+=10;
 
         System.out.println(i);
+        System.out.println("nihao");
     }
 }
